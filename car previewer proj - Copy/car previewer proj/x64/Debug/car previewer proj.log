@@ -1,0 +1,3 @@
+﻿  car previewer proj.cpp
+C:\Users\RMahm\OneDrive\Desktop\car previewer proj\car previewer proj\car previewer proj.cpp(144,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  car previewer proj.vcxproj -> C:\Users\RMahm\OneDrive\Desktop\car previewer proj\x64\Debug\car previewer proj.exe
